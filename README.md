@@ -16,6 +16,8 @@ Open up the project on your IDE and open the "actors.java" file
 In the "actors.java" file, you will need to change the "filePath" directory to your local directory to where you have saved the project
 and it needs to map to the "actors.txt" file.
 
+Run the program and use the input that it requires in the console.
+
 
 ***
 
